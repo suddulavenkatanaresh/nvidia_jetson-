@@ -1,2 +1,2 @@
-# nvidia_jetson-hardwares
+# nvidia-jetson-hardwares
 edge computing basics 
